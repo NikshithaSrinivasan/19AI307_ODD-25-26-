@@ -26,8 +26,8 @@ End the program.
  ```
 /*
 Program to implement a Class and Objects using Java
-Developed by: Swetha S
-RegisterNumber:  212224040344
+Developed by: NIKSHITHA S
+RegisterNumber:  212224040220
 */
 ```
 
